@@ -28,6 +28,10 @@ Button
 7) Switch
 
 
+## Functional Flow Diagram
+https://github.com/NehaNevrekar/Visitor-Counter-using-LPC2148-and-Seven-Segment-Display/issues/1#issue-696531157
+
+
 ## Visitor Counter – Control Philosophy
 1) The circuit works on the principle of IR sensing.
 
@@ -61,6 +65,10 @@ Step6: When count becomes 10, clear the interrupt.
 Step7: Reset the Seven segment & end the interrupt.
 
 Step8: Stop.
+
+
+## Simulation
+
 
 
 ## Conclusion
