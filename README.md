@@ -68,7 +68,7 @@ Step8: Stop.
 
 
 ## Simulation
-
+https://github.com/NehaNevrekar/Visitor-Counter-using-LPC2148-and-Seven-Segment-Display/issues/2#issue-696533752
 
 
 ## Conclusion
